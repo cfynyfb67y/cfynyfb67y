@@ -1,4 +1,4 @@
-#envelope
+#envelope  {
 margin : 150px ;
 Position  :  relative ;
 Width : 280px ;
